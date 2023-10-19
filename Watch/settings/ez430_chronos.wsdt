@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>ez430_chronos/868MHz - Limited IAR Kickstart (Europe)</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>250</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1486</ColumnWidth1><ColumnWidth2>861</ColumnWidth2><ColumnWidth3>60</ColumnWidth3></Build>
+    <Find-in-Files><ColumnWidth0>580</ColumnWidth0><ColumnWidth1>82</ColumnWidth1><ColumnWidth2>994</ColumnWidth2></Find-in-Files><TerminalIO/><Debug-Log><ColumnWidth0>18</ColumnWidth0><ColumnWidth1>1623</ColumnWidth1></Debug-Log><Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5746-21755</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>ez430_chronos</ExpandedNode><ExpandedNode>ez430_chronos/Output</ExpandedNode><ExpandedNode>ez430_chronos/cinema.c</ExpandedNode><ExpandedNode>ez430_chronos/driver</ExpandedNode><ExpandedNode>ez430_chronos/include</ExpandedNode><ExpandedNode>ez430_chronos/logic</ExpandedNode><ExpandedNode>ez430_chronos/simpliciti</ExpandedNode><ExpandedNode>ez430_chronos/simpliciti/Applications</ExpandedNode><ExpandedNode>ez430_chronos/simpliciti/Applications/application</ExpandedNode><ExpandedNode>ez430_chronos/simpliciti/Applications/application/End Device</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-8778-22722</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-13944-27333</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-13401-30618</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\main.c</Filename><XPos>0</XPos><YPos>96</YPos><SelStart>5069</SelStart><SelEnd>5069</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\logic\menu.c</Filename><XPos>0</XPos><YPos>177</YPos><SelStart>6775</SelStart><SelEnd>6787</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\logic\menu.h</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>3441</SelStart><SelEnd>3441</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\driver\cinema.c</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>2566</SelStart><SelEnd>2566</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\driver\cinema.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>401</SelStart><SelEnd>415</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\logic\cinesync.c</Filename><XPos>0</XPos><YPos>19</YPos><SelStart>2578</SelStart><SelEnd>2578</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\logic\cinesync.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>613</SelStart><SelEnd>661</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\logic\rfsimpliciti.c</Filename><XPos>0</XPos><YPos>554</YPos><SelStart>19409</SelStart><SelEnd>19409</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\logic\rfsimpliciti.h</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>2655</SelStart><SelEnd>2655</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\simpliciti\simpliciti.h</Filename><XPos>0</XPos><YPos>119</YPos><SelStart>5179</SelStart><SelEnd>5179</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\driver\display.h</Filename><XPos>0</XPos><YPos>79</YPos><SelStart>3458</SelStart><SelEnd>3458</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\driver\timer.c</Filename><XPos>0</XPos><YPos>74</YPos><SelStart>2552</SelStart><SelEnd>2552</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\logic\alarm.h</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>2878</SelStart><SelEnd>2878</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\logic\alarm.c</Filename><XPos>0</XPos><YPos>75</YPos><SelStart>4104</SelStart><SelEnd>4104</SelEnd></Tab><ActiveTab>13</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\include\project.h</Filename><XPos>0</XPos><YPos>120</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\logic\clock.c</Filename><XPos>0</XPos><YPos>75</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\ChronosSoftware\eZ430-Chronos\Software Projects\Chronos Watch\IAR\Sports Watch\logic\stopwatch.c</Filename><XPos>0</XPos><YPos>312</YPos><SelStart>10235</SelStart><SelEnd>10789</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01c59110><key>iaridepm.enu1</key></Toolbar-01c59110></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5><Row6><Sizes/></Row6><Row7><Sizes/></Row7><Row8><Sizes/></Row8><Row9><Sizes/></Row9><Row10><Sizes/></Row10><Row11><Sizes/></Row11><Row12><Sizes/></Row12><Row13><Sizes/></Row13><Row14><Sizes/></Row14><Row15><Sizes/></Row15><Row16><Sizes/></Row16><Row17><Sizes/></Row17><Row18><Sizes/></Row18><Row19><Sizes/></Row19><Row20><Sizes/></Row20><Row21><Sizes/></Row21><Row22><Sizes/></Row22><Row23><Sizes/></Row23><Row24><Sizes/></Row24><Row25><Sizes/></Row25><Row26><Sizes/></Row26><Row27><Sizes/></Row27><Row28><Sizes/></Row28><Row29><Sizes/></Row29><Row30><Sizes/></Row30><Row31><Sizes/></Row31><Row32><Sizes/></Row32><Row33><Sizes/></Row33><Row34><Sizes/></Row34></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>818</Bottom><Right>345</Right><x>-2</x><y>-2</y><xscreen>396</xscreen><yscreen>202</yscreen><sizeHorzCX>154688</sizeHorzCX><sizeHorzCY>150746</sizeHorzCY><sizeVertCX>135547</sizeVertCX><sizeVertCY>611940</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>474</Bottom><Right>2562</Right><x>-2</x><y>-2</y><xscreen>2564</xscreen><yscreen>476</yscreen><sizeHorzCX>1001562</sizeHorzCX><sizeHorzCY>355224</sizeHorzCY><sizeVertCX>154688</sizeVertCX><sizeVertCY>150746</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
