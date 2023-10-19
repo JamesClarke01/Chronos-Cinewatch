@@ -4,6 +4,7 @@ Designed for the eZ430-Chronos Development Tool.
 
 The server scrapes the screening times from the cinema website and transmits it to the watch, using the kit provided short range radio USB device.
 The user can then view this data on the watch.
+Note: Scraping code not included in this repository.
 
 The server code is written by me, and the the client code is a modified version of the operating system provided with the development tool.
 # Data Transmission Documentation
